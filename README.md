@@ -6,7 +6,7 @@
 
 - 👨‍💻 My Portfolio - **[Ankit Kumar](https://anandankitkumar1.github.io/)**
 
-- 🌱 I’m currently learning **Full Stack - Web Development.**
+- 🌱 I’m a **Full Stack - Web Development.**
 
 - 📫 How to reach me **careaak@gmail.com**
 
