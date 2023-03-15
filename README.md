@@ -48,7 +48,7 @@
 
 <div class="graph-1">
   <p align="center"><a href="https://github.com/anandankitkumar"><img align="center" width="90%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandankitkumar1&amp;theme=dracula&amp;bg_color=0D1117"/></a>
+     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandankitkumar&amp;theme=dracula&amp;bg_color=0D1117"/></a>
   </p>
 </div>
 
@@ -59,5 +59,5 @@
 
 <h3 align="center"> 
   Visitor count <br>
-  <img src="https://profile-counter.glitch.me/anandankitkumar1/count.svg" />
+  <img src="https://profile-counter.glitch.me/anandankitkumar/count.svg" />
 </h3>
